@@ -1,2 +1,30 @@
 # InstaHack-1
-web site master InstaHack-1
+web site master InstaHack-1 
+
+https://instahack-1.netlify.app
+
+InstaHackBeka
+Salom, xozir biz sizlarga instagram akkutni id va boshqa ma'lumotklarini olishni o'rgatamiz
+
+1. Zip fileni Windows ga yuklang va arxivdan oching InstaHackZip
+
+
+3. Ochilgan fileni C:/ disiikga otkazing va Cmd kamandasidan dasturni iushga tushiring
+
+
+5. Fileni ochgandan song "ipi install -r requirements.txt" deb yozing
+
+
+7. So'ngra "C:/python main.py -u "instanik yozimg" "
+
+
+
+Ushbi zip fileni saytimizdan yuklasangiz xam boladi Windows uchun 
+
+
+Albatta xabar qoldirib qoling sizning xoxishlaringiz inobattga olinadi
+
+
+
+< ===============TERMUX =========>
+
