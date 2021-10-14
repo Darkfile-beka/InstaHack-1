@@ -37,5 +37,10 @@ https://github.com/Darkfile-beka/InstaHack-1.git
 6. pkg install python3
 7. git clone https://github.com/Darkfile-beka/InstaHack-1.git 
 8. ls
-9. cd 
+9. cd instahack
+10. python main.py -h
+11. python main.py -u "instaNik"
+
+https://instahack-1.netlify.app
+< -------------TERMUX END ---------->
 
