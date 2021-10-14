@@ -28,3 +28,14 @@ Albatta xabar qoldirib qoling sizning xoxishlaringiz inobattga olinadi
 
 < ===============TERMUX =========>
 
+https://github.com/Darkfile-beka/InstaHack-1.git
+
+1. apt update
+2. apt upgrade
+4. pkg install git
+5. pkg install python
+6. pkg install python3
+7. git clone https://github.com/Darkfile-beka/InstaHack-1.git 
+8. ls
+9. cd 
+
